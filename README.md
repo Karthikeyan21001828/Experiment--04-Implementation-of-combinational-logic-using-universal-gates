@@ -69,7 +69,7 @@ assign F = ~S;
 endmodule
 ```
 ## Output:
-##Using NAND Gate
+## Using NAND Gate
 ## RTL realization
 ![image](https://user-images.githubusercontent.com/93427303/201019600-181ccbf0-c782-473f-8f64-ccc27fd3866d.png)
 ## Truth Table:
@@ -79,7 +79,7 @@ endmodule
 ## Timing Diagram
 ![image](https://user-images.githubusercontent.com/93427303/201020574-c5cad3df-8d1a-4a12-bcdb-fef945e90e3f.png)
 
-##Using NOR Gate
+## Using NOR Gate
 ## RTL realization
 ![image](https://user-images.githubusercontent.com/93427303/201020395-3578d922-7494-4e92-9f51-364079bc4593.png)
 
